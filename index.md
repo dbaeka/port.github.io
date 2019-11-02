@@ -37,8 +37,27 @@
   Screenplay on </div> </li>
   <li> <div> <a href="pdf/Drama.pdf"> Unnamed Drama</a>
 Drama screenplay on </div></li></ul>
-
+<br>
+---
 ### Articles
+<ul>
+  <li>
+    <div>
+      <a href="https://www.modernghana.com/news/839310/the-biggest-gathering-of-tertiary-women-was-a-great-success.html"> The Biggest Gathering Of Tertiary Women Was A Great Success </a>
+      Article on  
+    </div>
+  </li>
+ 
+  <li>
+    <div>
+      <a href="https://www.primenewsghana.com/sports/sports-ministry-must-invest-in-table-tennis-player.html"> Sports Ministry must invest in table tennis -Player </a>
+      Article on 
+    </div>
+  </li>
+</ul>
+
+ <br>
+---
 
 ### Videos
 

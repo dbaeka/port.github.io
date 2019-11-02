@@ -7,8 +7,8 @@
 #### Project 1 Title
 <div>
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
-  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
-  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
+  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47.jpg?raw=true" style="max-width: 33%;"/></a>
+  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-48.jpg?raw=true" style="max-width: 33%;"/></a>
 </div>
 
 ---

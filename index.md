@@ -33,9 +33,9 @@
 ---
 
 ### Writing
-<div> - [Daughters of Eve](pdf/Daughters%20of%20Eve.pdf)
+- <div> [Daughters of Eve](pdf/Daughters%20of%20Eve.pdf)
 Screenplay on </div>
-<div> - [Unnamed Drama](pdf/Drama.pdf)
+- <div> [Unnamed Drama](pdf/Drama.pdf)
 Drama screenplay on </div>
 
 ### Articles

@@ -21,13 +21,13 @@
 
 ### Graphics
 
-[Goal Effect](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
+[Goal Effect](pdf/Goal%20Effect.pdf)
 <div>Part of the design team to implement a new kind of goal post that uses sensors to light up the net when the ball scores. The aim was to make soccer more engaging.</div>
-<div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
+<div style="margin-top: 10px;"><a href="pdf/Goal%20Effect.pdf"><img src="images/Goal%20Effect.png?raw=true"/></a></div>
 
-[Insider: Communication Platform](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
+[Insider: Communication Platform](pdf/insider.pdf)
 <div>Part of the design team that designed the User Interface for a mobile platform to engage the general public on electoral activities within their community</div>
-<div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
+<div style="margin-top: 10px;"><a href="pdf/insider.pdf"><img src="images/Insider%20App.png?raw=true"/></a></div>
 
 
 ---

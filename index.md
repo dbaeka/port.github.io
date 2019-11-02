@@ -15,7 +15,7 @@
 ---
 [The Ghana Game Championship](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
 <div>A game show to blah blah</div>
-<a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a>
+<div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
 
 ---
 [Project 3 Title](http://example.com/)

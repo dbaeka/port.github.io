@@ -4,7 +4,7 @@
 
 ### Events and Programs 
 
-<a>Project Title</a>
+<a>Stanbic Bank National Table Tennis League</a>
 <div>
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" target="_blank"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" target="_blank"><img src="images/PHOTO-2019-10-10-15-05-47.jpg?raw=true" style="max-width: 33%;"/></a>
@@ -13,7 +13,7 @@
 
 <br>
 [The Ghana Game Championship](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
-<div>A game show to blah blah</div>
+<div>The Ghana Game Championship is a television programme designed to show case games in different communities which is aimed at fostering unity and preserving the  Ghanaian game culture.</div>
 <div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx" target="_blank"><img src="images/Game%20Show.png?raw=true"/></a></div>
 <br>
 <hr>
@@ -33,9 +33,9 @@
 
 ### Writing
 <ul> <li> <div> <a href="pdf/Daughters%20of%20Eve.pdf" target="_blank"> Daughters of Eve </a>
-  Screenplay on </div> </li>
+  Screenplay for a 30-minute relationship show, which is different from the numerous relationship shows on the Ghanaian media to educate the youth on the importance of communication in relationships. </div> </li>
   <li> <div> <a href="pdf/Drama.pdf" target="_blank"> Unnamed Drama</a>
-Drama screenplay on </div></li></ul>
+Drama screenplay about a man im the States, who sent money to his brother in Ghana to acquire some properties for him. He returned to Ghana to find out his brother had sent him falsified pictures of having acquired said properties. The screenplay reveals how the man dealt with the issue involving his brother. </div></li></ul>
 <br>
 <hr>
 ### Articles
@@ -43,14 +43,14 @@ Drama screenplay on </div></li></ul>
   <li>
     <div>
       <a href="https://www.modernghana.com/news/839310/the-biggest-gathering-of-tertiary-women-was-a-great-success.html" target="_blank"> The Biggest Gathering Of Tertiary Women Was A Great Success </a>
-      Article on  
+      Article on a tertiary women's summit organised with the aim  of creating the platform for the next generation of women leaders to be mentored by astute personalities across the country.  
     </div>
   </li>
  
   <li>
     <div>
       <a href="https://www.primenewsghana.com/sports/sports-ministry-must-invest-in-table-tennis-player.html" target="_blank"> Sports Ministry must invest in table tennis -Player </a>
-      Article on 
+      Article on a table tennis world championship which brought together players across the globe to compete for various titles. A Ghanaian player also used the opportunity to appeal to the Sports Ministry.
     </div>
   </li>
 </ul>

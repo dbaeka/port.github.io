@@ -11,9 +11,10 @@
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-48.jpg?raw=true" style="max-width: 33%;"/></a>
 </div>
 
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 Title](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
+<img src="images/Game%20Show.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

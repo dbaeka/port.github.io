@@ -5,9 +5,11 @@
 ### Events and Programs 
 
 #### Project 1 Title
-<div><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
-<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
-<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/></div>
+<div>
+  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
+  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
+  <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
+</div>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

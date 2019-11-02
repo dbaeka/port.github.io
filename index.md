@@ -18,18 +18,17 @@
 <div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Graphics
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Goal Effect](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
+<div>Part of the design team to implement a new kind of goal post that uses sensors to light up the net when the ball scores. The aim was to make soccer more engaging.</div>
+<div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
+
+[Insider: Communication Platform](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
+<div>Part of the design team that designed the User Interface for a mobile platform to engage the general public on electoral activities within their community</div>
+<div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
+
 
 ---
 

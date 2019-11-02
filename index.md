@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Graphics
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,9 +27,13 @@
 
 ---
 
+### Writing
 
+### Articles
+
+### Videos
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->

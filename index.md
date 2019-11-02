@@ -5,9 +5,9 @@
 ### Events and Programs 
 
 #### Project 1 Title
-<a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/></a>
+<div><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
 <img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
-<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
+<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/></div>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

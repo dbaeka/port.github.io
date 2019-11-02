@@ -20,11 +20,11 @@
 
 ### Graphics
 
-[Goal Effect](pdf/Goal%20Effect.pdf)
+<a href="pdf/Goal%20Effect.pdf" target="_blank">Goal Effect</a>
 <div>Part of the design team to implement a new kind of goal post that uses sensors to light up the net when the ball scores. The aim was to make soccer more engaging.</div>
 <div style="margin-top: 10px;"><a href="pdf/Goal%20Effect.pdf" target="_blank"><img src="images/Goal%20Effect.png?raw=true"/></a></div>
-<br>
-[Insider: Communication Platform](pdf/insider.pdf)
+<br><br>
+<a href="pdf/insider.pdf" target="_blank">Insider: Communication Platform</a>
 <div>Part of the design team that designed the User Interface for a mobile platform to engage the general public on electoral activities within their community</div>
 <div style="margin-top: 10px;"><a href="pdf/insider.pdf" target="_blank"><img src="images/Insider%20App.png?raw=true"/></a></div>
 

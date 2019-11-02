@@ -59,7 +59,28 @@ Drama screenplay on </div></li></ul>
 <hr>
 
 ### Videos
-
+<ul>
+  <li>
+    <div>
+      <a href="https://drive.google.com/file/d/14iH8t-rJywYQt8Q59acWNijVFAXypIVu/view?usp=drivesdk" target="_blank"> GBC: Accra Flyovers - Filth and posters mar beauty of infrastructure </a>
+      Level 200 internship at GBC, where I was paired with a level 300 for a feature in the news.
+    </div>
+  </li>
+ 
+  <li>
+    <div>
+      <a href="https://drive.google.com/file/d/1h155pndiBmZ5FZRb-s0Y0hNJqoOcjsIM/view?usp=drivesdk" target="_blank"> Mobile Journalism </a>
+      Group work where I did the voiceover. 
+    </div>
+  </li>
+  
+   <li>
+    <div>
+      <a href="https://drive.google.com/file/d/1VcvhOuldL6hcojf-QyLFBBNFOqSzftlV/view?usp=drivesdk" target="_blank"> Radio GIJ: The Journey So Far </a>
+      Group work where I did the voiceover. 
+    </div>
+  </li>
+</ul>
 
 <br>
 <hr>

@@ -12,12 +12,11 @@
 </div>
 
 <br>
----
 [The Ghana Game Championship](ppt/THE%20GHANA%20GAME%20SHOW%202.pptx)
 <div>A game show to blah blah</div>
 <div style="margin-top: 10px;"><a href="ppt/THE%20GHANA%20GAME%20SHOW%202.pptx"><img src="images/Game%20Show.png?raw=true"/></a></div>
 <br>
----
+<hr>
 
 ### Graphics
 
@@ -29,8 +28,8 @@
 <div>Part of the design team that designed the User Interface for a mobile platform to engage the general public on electoral activities within their community</div>
 <div style="margin-top: 10px;"><a href="pdf/insider.pdf"><img src="images/Insider%20App.png?raw=true"/></a></div>
 
-
----
+<br>
+<hr>
 
 ### Writing
 <ul> <li> <div> <a href="pdf/Daughters%20of%20Eve.pdf"> Daughters of Eve </a>
@@ -38,7 +37,7 @@
   <li> <div> <a href="pdf/Drama.pdf"> Unnamed Drama</a>
 Drama screenplay on </div></li></ul>
 <br>
----
+<hr>
 ### Articles
 <ul>
   <li>
@@ -57,11 +56,12 @@ Drama screenplay on </div></li></ul>
 </ul>
 
  <br>
----
+<hr>
 
 ### Videos
 
 
----
+<br>
+<hr>
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->

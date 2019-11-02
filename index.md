@@ -4,7 +4,7 @@
 
 ### Events and Programs 
 
-#### Project 1 Title
+<a>Project Title</a>
 <div>
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true" style="max-width: 33%;"/></a>
   <a href="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"><img src="images/PHOTO-2019-10-10-15-05-47.jpg?raw=true" style="max-width: 33%;"/></a>

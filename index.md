@@ -4,8 +4,10 @@
 
 ### Events and Programs 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Project 1 Title
+<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
+<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
+<img src="images/PHOTO-2019-10-10-15-05-47 1.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

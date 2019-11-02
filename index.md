@@ -33,9 +33,9 @@
 ---
 
 ### Writing
-<ul> <li> <div> [Daughters of Eve](pdf/Daughters%20of%20Eve.pdf)
+<ul> <li> <div> <a href="pdf/Daughters%20of%20Eve.pdf"> Daughters of Eve </a>
   Screenplay on </div> </li>
-  <li> <div> [Unnamed Drama](pdf/Drama.pdf)
+  <li> <div> <a href="pdf/Drama.pdf"> Unnamed Drama</a>
 Drama screenplay on </div></li></ul>
 
 ### Articles

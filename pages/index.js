@@ -50,7 +50,7 @@ export default function Home() {
                                     </a>
                                 </Col>
                                 <Col className="link-item" xs="12" sm="4" md="4">
-                                    <a className="" href="https://zzhou612.com/resume.pdf"
+                                    <a className="" href="/delmwin_resume.pdf"
                                        target="_">
                                         <FontAwesomeIcon icon={faIdBadge}/> Resumé
                                     </a>

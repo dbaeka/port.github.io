@@ -51,7 +51,7 @@ export default function Home() {
                                 </Col>
                                 <Col className="link-item" xs="12" sm="4" md="4">
                                     <a className="" href="/delmwin_resume.pdf"
-                                       target="_">
+                                       target="_self">
                                         <FontAwesomeIcon icon={faIdBadge}/> Resumé
                                     </a>
                                 </Col>

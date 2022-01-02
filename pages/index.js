@@ -2,7 +2,7 @@ import Head from 'next/head'
 import React from "react";
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
 import {faGithubAlt, faLinkedinIn} from '@fortawesome/free-brands-svg-icons'
-import {faIdBadge} from '@fortawesome/free-solid-svg-icons'
+import {faIdBadge, faTools} from '@fortawesome/free-solid-svg-icons'
 import {Col, Row, Container} from "reactstrap";
 
 export default function Home() {
@@ -30,7 +30,7 @@ export default function Home() {
                                 <div className="hack-caps">
                                     <p>
                                         <span className="embolden">S</span>
-                                        <span className="font-weight-lighter">oftware Developer</span>
+                                        <span className="font-weight-lighter">oftware Engineer</span>
                                     </p>
                                     <p>
                                         <span className="embolden">G</span>
@@ -44,22 +44,29 @@ export default function Home() {
                             </div>
                             <br/>
                             <Row className="links">
-                                <Col className="link-item" xs="12" sm="4" md="4">
+                                <Col className="link-item" xs="12" sm="3" md="3">
                                     <a href="https://github.com/dbaeka" target="_self">
                                         <FontAwesomeIcon icon={faGithubAlt}/> Github
                                     </a>
                                 </Col>
-                                <Col className="link-item" xs="12" sm="4" md="4">
+                                <Col className="link-item" xs="12" sm="3" md="3">
                                     <a className="" href="/delmwin_resume.pdf"
                                        target="_self">
                                         <FontAwesomeIcon icon={faIdBadge}/> Resumé
                                     </a>
                                 </Col>
-                                <Col className="link-item" xs="12" sm="4" md="4">
+                                <Col className="link-item" xs="12" sm="3" md="3">
                                     <a className=""
                                        href="https://www.linkedin.com/in/delmwinb/"
                                        target="_self">
                                         <FontAwesomeIcon size="sm" icon={faLinkedinIn}/> LinkedIn
+                                    </a>
+                                </Col>
+                                <Col className="link-item" xs="12" sm="3" md="3">
+                                    <a className=""
+                                       href="/projects_summary.pdf"
+                                       target="_self">
+                                        <FontAwesomeIcon size="sm" icon={faTools}/> Projects
                                     </a>
                                 </Col>
                             </Row>

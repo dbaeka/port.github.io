@@ -45,7 +45,7 @@ export default function Home() {
                             <br/>
                             <Row className="links">
                                 <Col className="link-item" xs="12" sm="3" md="3">
-                                    <a href="https://github.com/dbaeka" target="_self">
+                                    <a href="https://github.com/dbaeka" target="_blank">
                                         <FontAwesomeIcon icon={faGithubAlt}/> Github
                                     </a>
                                 </Col>
@@ -58,7 +58,7 @@ export default function Home() {
                                 <Col className="link-item" xs="12" sm="3" md="3">
                                     <a className=""
                                        href="https://www.linkedin.com/in/delmwinb/"
-                                       target="_self">
+                                       target="_blank">
                                         <FontAwesomeIcon size="sm" icon={faLinkedinIn}/> LinkedIn
                                     </a>
                                 </Col>

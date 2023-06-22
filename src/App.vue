@@ -54,7 +54,7 @@
             >
               <img
                 decoding="async" width="1920" height="475"
-                src="/src/assets/img/web-dev-17.png"
+                src="/img/web-dev-17.png"
                 alt=""
               />
             </div>
@@ -80,7 +80,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="99" height="100"
-                    src="/src/assets/img/web-icon-design-2.png"
+                    src="/img/web-icon-design-2.png"
                     alt=""
                   /></span>
                 </div>
@@ -139,7 +139,7 @@
                     <img
                       decoding="async" loading="lazy"
                       width="100" height="100"
-                      src="/src/assets/img/web-icon-code-2-1.png"
+                      src="/img/web-icon-code-2-1.png"
                       alt=""
                     />
                   </span>
@@ -205,7 +205,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="1280" height="584"
-                    src="/src/assets/img/web-dev-26.jpg"
+                    src="/img/web-dev-26.jpg"
                     alt=""
                   /></span>
                 </div>
@@ -219,7 +219,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="36" height="36"
-                    src="/src/assets/img/web-icon-light-bulb.png"
+                    src="/img/web-icon-light-bulb.png"
                     alt=""
                   /></span>
                 </div>
@@ -245,7 +245,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="36" height="36"
-                    src="/src/assets/img/web-icon-design.png"
+                    src="/img/web-icon-design.png"
                     alt=""
                   /></span>
                 </div>
@@ -272,7 +272,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="36" height="36"
-                    src="/src/assets/img/web-icon-adjust.png"
+                    src="/img/web-icon-adjust.png"
                     alt=""
                   /></span>
                 </div>
@@ -299,7 +299,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="36" height="36"
-                    src="/src/assets/img/web-icon-code.png"
+                    src="/img/web-icon-code.png"
                     alt=""
                   /></span>
                 </div>
@@ -354,7 +354,7 @@
                     <img
                       decoding="async" loading="lazy"
                       width="800" height="533"
-                      src="/src/assets/img/web-dev-25.png"
+                      src="/img/web-dev-25.png"
                       alt=""
                     />
                   </span>
@@ -367,7 +367,7 @@
                   <span class="et_pb_image_wrap "><img
                     decoding="async" loading="lazy"
                     width="830" height="553"
-                    src="/src/assets/img/web-dev-10.png"
+                    src="/img/web-dev-10.png"
                     alt=""
                   /></span>
                 </div>

@@ -38,7 +38,7 @@
                     <a
                       class="et_pb_button et_pb_more_button et_pb_button_one"
                       href="mailto:dbaekajnr@gmail.com?subject=Quote%20For%20Website%20"
-                    >Get a Free Quote</a>
+                    >Contact Me</a>
                     <a
                       class="et_pb_button et_pb_more_button et_pb_button_two" href="/projects_summary.pdf"
                       target="_self"
